@@ -1,1 +1,1 @@
-# Automating-Email
+# Automated-Email
